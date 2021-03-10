@@ -1,0 +1,16 @@
+k catamenia catamenia
+m 40:96:20:09:28
+c balantidiosis
+t 70:07:20:78:82|70:07:20:78:86
+s
+a 0
+a 1
+a 2
+a 3
+b 0
+b 2
+e 4
+e 2
+s
+s
+q

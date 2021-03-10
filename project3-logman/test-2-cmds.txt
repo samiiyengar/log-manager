@@ -1,0 +1,12 @@
+# hello world!
+k saguaro pps
+k manyfold, hemikaryon
+k Tunings manyfold squadrons
+k hemikaryon hhhp
+t 40:96:20:09:28|48:81:80:60:17
+k overstriking, cytolysis-
+k retrains
+c Saguaro-PPS
+c hemikaryon hhhp
+g
+q
