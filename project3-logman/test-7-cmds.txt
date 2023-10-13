@@ -1,8 +1,0 @@
-r
-m 40:96:20:09:28
-c overstriking
-r
-k manyfold
-g
-r
-q
