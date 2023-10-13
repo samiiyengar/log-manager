@@ -1,0 +1,9 @@
+g
+m 40:96:20:09:28
+c overstriking
+g
+k manyfold
+a 1
+a 2
+g
+q
